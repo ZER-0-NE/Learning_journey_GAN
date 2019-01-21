@@ -1,2 +1,2 @@
 # Learning_journey_GAN
-My learning journey for GAN (Generative Adversarial Networks)
+My learning journey in the field of GAN (Generative Adversarial Networks)
